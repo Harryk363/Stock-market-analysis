@@ -1,9 +1,5 @@
 {
-    "builds" : [
-     {
-          
-            "PYTHON_VERSION" : "3.12"
-        }
-    
-]
+    "build" :{
+        "PYTHON_VERSION": "3.13"
+    }
 }
