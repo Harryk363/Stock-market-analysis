@@ -1,7 +1,0 @@
-fastapi
-pandas 
-numpy
-sklearn
-yfinance
-xgboost
-ta

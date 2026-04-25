@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-yfinancep 
-xgboost
-scikit-learn
-pandas
-numpy
-ta
-jinja2
